@@ -16,7 +16,7 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
-          <h1>Hola buenas tardes</h1>
+          <h1>Hola mamá, su hijo no triunfó</h1>
           <p>
             Editar <code>src/App.tsx</code> and save to test <code>HMR</code>
           </p>
